@@ -1,4 +1,4 @@
-## [Hi, I'm Harika!](https://link-to-your-animated-gif.gif)
+## 👋 Hi, I'm Harika!
 
 🔭 I’m currently working on **innovative full-stack projects**  
 🌱 I’m currently learning **back-end technologies**  
