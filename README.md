@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Harika!
+## [Hi, I'm Harika!](https://link-to-your-animated-gif.gif)
 
 🔭 I’m currently working on **innovative full-stack projects**  
 🌱 I’m currently learning **back-end technologies**  
@@ -14,15 +14,13 @@
 
 - **Front-End:** HTML, CSS, JavaScript, React.js
 - **Back-End:** Node.js, Java, MySQL, 
-- **Frameworks:** React.js, Django
+- **Frameworks:** React.js
 - **Database:** MySQL, MongoDB
 - **Version Control:** GitHub
 
 ---
 
 ### 📈 GitHub Stats
-
-![Harika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chintalaharika5&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintalaharika5&layout=compact&theme=radical)](https://github.com/Chintalaharika5/github-readme-stats)
 
@@ -39,22 +37,21 @@
 3. [**Energy Consumption Forecasting Model**](https://github.com/Chintalaharika5/Energy-Consumption-Forecasting)  
    - A machine learning model that predicts future energy consumption using historical data, contributing to efficient energy management. Developed during the Infosys Springboard Internship.
 
-4. [**Portfolio Website**](https://github.com/Chintalaharika5/Portfolio-Website)  
-   - A dynamic portfolio website showcasing my projects and skills, built with **HTML, CSS**, and **JavaScript**.
+4. [**Plant Disease Recognition using TensorFlow**](https://github.com/Chintalaharika5/Plant-Disease-Recognition)  
+   - An application that utilizes TensorFlow to identify and classify plant diseases based on images, helping farmers to manage crop health effectively.
 
 ---
 
 ### 🎓 Certifications & Internships
+
+- **Energy Consumption Forecasting Internship** (Infosys Springboard)  
+   - Worked on building a forecasting system to predict energy usage. [Project](https://github.com/Chintalaharika5/Energy-Consumption-Forecasting)
 
 - **AI-ML Virtual Internship** (AICTE EduSkills x Google for Developers)  
    - 10-week internship focusing on real-world applications of AI and machine learning. [Certificate](https://www.linkedin.com/in/harika-chintala-23b37b272)
 
 - **Web Development Internship** (Oasis Infobyte)  
    - Gained hands-on experience in developing web-based applications using **HTML, CSS, JavaScript**, and **Node.js**. [Certificate](https://www.linkedin.com/in/harika-chintala-23b37b272)
-
-- **Energy Consumption Forecasting Internship** (Infosys Springboard)  
-   - Worked on building a forecasting system to predict energy usage. [Project](https://github.com/Chintalaharika5/Energy-Consumption-Forecasting)
-
 ---
 
 ### ✨ Fun Facts About Me
