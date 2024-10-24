@@ -1,4 +1,37 @@
-👋 Hi, I'm Harika!
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Animation</title>
+    <style>
+        .typewriter h1 {
+            font-family: 'Courier', monospace;
+            border-right: .15em solid orange;
+            white-space: nowrap;
+            overflow: hidden;
+            width: 0;
+            animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+        }
+
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 12ch; }
+        }
+
+        @keyframes blink-caret {
+            from, to { border-color: transparent; }
+            50% { border-color: orange; }
+        }
+    </style>
+</head>
+<body>
+    <div class="typewriter">
+        <h1>👋 Hi, I'm Harika!</h1>
+    </div>
+</body>
+</html>
 
 🔭 I’m currently working on innovative full-stack projects  
 🌱 I’m currently learning back-end technologies  
