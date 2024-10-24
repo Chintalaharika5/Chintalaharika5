@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harika! 
+## 👋 Hi, I'm Harika! 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
@@ -8,9 +8,9 @@
     📫 You can reach out to me via **[email](mailto:chintalaharik5@gmail.com)**  
   </div>
   <div>
-    <img src="https://your-gif-url-here.gif" alt="Hi" width="200">
+    <img src="https://your-image-url-here.jpg" alt="Professional Greeting" width="200">
   </div>
-</div> 
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harika-chintala-23b37b272/)](https://www.linkedin.com/in/harika-chintala-23b37b272/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Chintalaharika5)](https://github.com/Chintalaharika5)  
