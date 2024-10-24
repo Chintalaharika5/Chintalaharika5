@@ -14,65 +14,14 @@
 💻 **Technologies & Tools**  
 
 
-### Front-End:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="HTML" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="CSS" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48" height="48" alt="React.js" />
-      <br>React.js
-    </td>
-  </tr>
-</table>
-
-### Back-End:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-  </tr>
-</table>
-
-### Databases:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-  </tr>
-</table>
-
-### Version Control:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-  </tr>
-</table>
+Front-End:
+<table> <tr> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="HTML" /> <br>HTML5 </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="CSS" /> <br>CSS3 </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="JavaScript" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48" height="48" alt="React.js" /> <br>React.js </td> </tr> </table>
+Back-End:
+<table> <tr> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="48" height="48" alt="Node.js" /> <br>Node.js </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="48" height="48" alt="Java" /> <br>Java </td> </tr> </table>
+Databases:
+<table> <tr> <td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="48" height="48" alt="MySQL" /> <br>MySQL </td> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" /> <br>MongoDB </td> </tr> </table>
+Version Control:
+<table> <tr> <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="48" height="48" alt="GitHub" /> <br>GitHub </td> </tr> </table>
 
 ---
 
