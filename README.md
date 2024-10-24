@@ -8,7 +8,7 @@
     📫 You can reach out to me via **[email](mailto:chintalaharik5@gmail.com)**  
   </div>
   <div>
-    <img src="https://your-image-url-here.jpg" alt="Professional Greeting" width="200">
+    <img src="https://i.imgur.com/YourImageName.jpg" alt="Professional Greeting" width="200">
   </div>
 </div>
 
