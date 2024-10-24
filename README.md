@@ -6,9 +6,9 @@
     🌱 I’m currently learning **back-end technologies**  
     ⚡ I’m passionate about **arts, innovation, and decoration designs**  
     📫 You can reach out to me via **[email](mailto:chintalaharik5@gmail.com)**  
-  </div>
-  <div>
-    <img src="https://img.freepik.com/premium-photo/young-girl-h…cter-professional-girl-character_1002350-2141.jpg" alt="Professional Greeting" width="200">
+ </div>
+  <div style="flex-shrink: 0;">
+    <img src="https://your-image-url-here.jpg" alt="Professional Greeting" width="100" style="border-radius: 50%;">
   </div>
 </div>
 
