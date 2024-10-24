@@ -53,7 +53,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="48" height="48" alt="MySQL" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
