@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Harika!
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
     🔭 I’m currently working on **innovative full-stack projects**  
     🌱 I’m currently learning **back-end technologies**  
     ⚡ I’m passionate about **arts, innovation, and decoration designs**  
     📫 You can reach out to me via **[email](mailto:chintalaharik5@gmail.com)**  
-  </div>
+
   <div style="flex-shrink: 0;">
     <img src="https://i.imgur.com/your-image-name.jpg" alt="Professional Greeting" width="100" style="border-radius: 50%;">
   </div>
