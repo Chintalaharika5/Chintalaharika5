@@ -12,6 +12,8 @@
 
 💻 **Technologies & Tools**  
 
+
+### Front-End:
 <table>
   <tr>
     <td align="center" width="96">
@@ -30,6 +32,12 @@
       <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48" height="48" alt="React.js" />
       <br>React.js
     </td>
+  </tr>
+</table>
+
+### Back-End:
+<table>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="48" height="48" alt="Node.js" />
       <br>Node.js
@@ -38,6 +46,12 @@
       <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="48" height="48" alt="Java" />
       <br>Java
     </td>
+  </tr>
+</table>
+
+### Databases:
+<table>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
@@ -46,6 +60,12 @@
       <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
+  </tr>
+</table>
+
+### Version Control:
+<table>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
