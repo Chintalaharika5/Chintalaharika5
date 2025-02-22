@@ -58,7 +58,7 @@ An application that utilizes TensorFlow to identify and classify plant diseases 
 ✨ **Fun Facts About Me**  
 🎨 I love arts and decoration design, and often incorporate those skills into UI/UX design.  
 🚀 I'm always eager to learn new technologies and enjoy working on real-world projects that create impact.  
-📚 Preparing for placements and GATE exams while focusing on my passion for tech and innovation.
+📚 Preparing for placements focusing on my passion for tech and innovation.
 
 ---
 
