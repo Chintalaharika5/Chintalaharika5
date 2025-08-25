@@ -77,8 +77,17 @@
      <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="48" height="48" alt="GitHub" />
      <br>GitHub
    </td>
+   <td align="center" width="96">
+     <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="48" height="48" alt="Git" />
+     <br>Git
+   </td>
+   <td align="center" width="96">
+     <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" width="48" height="48" alt="REST API" />
+     <br>REST API
+   </td>
  </tr>
 </table>
+
 
 ---
 
@@ -110,10 +119,10 @@
 
 ---
 
-## 📚 Education  
-- **B.Tech in Computer Science** – GITAM University (Final Year)  
-- **Intermediate** – Score: 7.04  
-- **10th Class** – Score: 58.6  
+# 🎓 Education:
+- **B.Tech (CSE)** – GITAM University, Hyderabad – *7.01 CGPA*  
+- **Intermediate** – 7.04 GPA  
+- **10th Standard** – 58.6%  
 
 ---
 
