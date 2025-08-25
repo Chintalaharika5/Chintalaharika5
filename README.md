@@ -113,9 +113,24 @@
 
 ---
 
-## 🏅 Certifications  
-- Certificate of Participation – **UI/UX Placement Training Workshop (Unstop)**  
-- More certifications available on request  
+## 🏆 Certifications  
+
+- 🎨 **UI/UX Placement Training Workshop** – Unstop (Dec 2024)  
+- ☁️ **Get Started with Cloud Storage** – Google Cloud Skills Boost (Oct 2024)  
+- ☁️ **Get Started with Dataplex** – Google Cloud Skills Boost (Oct 2024)  
+- ☁️ **The Basics of Google Cloud Compute** – Google Cloud Skills Boost (Oct 2024)  
+- 🗂️ **How to Create a Jira SCRUM Project** – Coursera (Oct 2024)  
+- 💻 **Core Java Specialization** – LearnQuest (Mar 2023)  
+- 💻 **Java Class Library** – LearnQuest (Mar 2023)  
+- 🐍 **Data Analysis with Python** – IBM (Sep 2023)  
+- 🤖 **Artificial Intelligence Primer** – Infosys Springboard (Feb 2024)  
+- 🔍 **AI For Everyone** – DeepLearning.AI (Feb 2023)  
+- 🛢️ **MySQL** – Udemy (Jul 2024)  
+- 🧩 **Python Data Structures** – University of Michigan (Jun 2022)  
+- 🧑‍💻 **Data Structures** – UC San Diego (Dec 2022)  
+- 🌐 **Technical Support Fundamentals** – Google (Dec 2022)  
+- ⚙️ **Operating System Foundations** – Infosec (Feb 2023)  
+
 
 ---
 
