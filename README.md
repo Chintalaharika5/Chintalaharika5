@@ -1,13 +1,12 @@
 # Hi there, I'm Harika 👋  
 
-🚀 **Aspiring Full Stack Java Developer | GATE 2025 Aspirant | Tech Innovator**  
+🚀 **Aspiring Full Stack Java Developer | Tech Innovator**  
 
 ---
 
 ## 🌟 About Me  
 - 🎓 Final-year **B.Tech Computer Science Student at GITAM University**  
-- 💻 Interested in **Full Stack Development & AI/ML applications**  
-- 📘 Preparing for **GATE 2025 (CSE)** while building **projects for placements**  
+- 💻 Interested in **Full Stack Development & AI/ML applications**   
 - 🌱 Currently learning **Spring Boot, React, SQL & Advanced Java**  
 - ✨ Passionate about **arts, design, and innovation**
 - 📫 You can reach out to me via [email](chintalaharik5@gmail.com)**
@@ -120,9 +119,9 @@
 
 📈 **GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chintalaharika5&show_icons=true&theme=tokyonight)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintalaharika5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chintalaharika5&theme=tokyonight)  
+
 
 ---
 
