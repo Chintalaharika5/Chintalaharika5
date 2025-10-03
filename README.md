@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://ik.imagekit.io/js1b7wgem/banner.jpeg?updatedAt=1746845501003" alt="Coding Banner" style="width: 100%; height: auto;">
+<img src="https://i.pinimg.com/736x/fe/b9/0c/feb90c87314447f4cb7376851df1e94d.jpg" alt="Coding Banner" style="width: 100%; height: auto;">
 
 <!-- Typing SVG -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harika</h1>
