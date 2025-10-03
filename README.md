@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.pinimg.com/736x/fe/b9/0c/feb90c87314447f4cb7376851df1e94d.jpg" alt="Coding Banner" style="width: 100%; height: auto;">
+<img src="https://i.pinimg.com/736x/f9/83/06/f98306494f6d636b39af01499ab9034e.jpg" alt="Coding Banner" style="width: 100%; height: auto;">
 
 <!-- Typing SVG -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harika</h1>
@@ -137,13 +137,13 @@
 
 ---
 
-<h1 align="center">🐍 CONTRIBUTION SNAKE 🐍</h1>
+<h1 align="center">🏙️ GITHUB SKYLINE 🏙️</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <a href="https://skyline.github.com/Chintalaharika5/2024" target="_blank">
+    <img src="https://raw.githubusercontent.com/Chintalaharika5/Chintalaharika5/main/skyline.png" alt="GitHub Skyline 3D" />
+  </a>
+</p>
 
 ---
 
