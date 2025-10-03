@@ -1,158 +1,159 @@
-# Hi there, I'm Harika 👋  
+<!-- Banner -->
+<img src="https://ik.imagekit.io/js1b7wgem/banner.jpeg?updatedAt=1746845501003" alt="Coding Banner" style="width: 100%; height: auto;">
 
-🚀 **Aspiring Full Stack Java Developer | Tech Innovator**  
+<!-- Typing SVG -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harika</h1>
+<p align="center">
+  <a href="https://github.com/Chintalaharika5">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Final-year+B.Tech+CSE+Student;Aspiring+Full+Stack+Java+Developer;AI+%26+ML+Enthusiast;Tech+Innovator&center=true&width=500&height=50">
+  </a>
+</p>
+
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chintalaharika5&label=Profile%20views&color=0e75b6&style=flat" alt="Chintalaharika5" /> </p>
 
 ---
 
-## 🌟 About Me  
-- 🎓 Final-year **B.Tech Computer Science Student at GITAM University**  
-- 💻 Interested in **Full Stack Development & AI/ML applications**   
+### ✨ About Me  
+- 🎓 Final-year **B.Tech Computer Science Student @ GITAM University**  
+- 💻 Interested in **Full Stack Development & AI/ML applications**  
 - 🌱 Currently learning **Spring Boot, React, SQL & Advanced Java**  
-- ✨ Passionate about **arts, design, and innovation**
-- 📫 You can reach out to me via [email](chintalaharik5@gmail.com)**
+- ✨ Passionate about **arts, design, and innovation**  
 - 📍 Based in **Hyderabad, India**  
+- 📫 Reach me at **chintalaharik5@gmail.com**  
 
 ---
 
-## 💻 Technologies & Tools  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### Front-End:
-<table>
- <tr>
-   <td align="center" width="96">
-     <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="HTML" />
-     <br>HTML5
-   </td>
-   <td align="center" width="96">
-     <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="CSS" />
-     <br>CSS3
-   </td>
-   <td align="center" width="96">
-     <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="JavaScript" />
-     <br>JavaScript
-   </td>
-   <td align="center" width="96">
-     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48" height="48" alt="React.js" />
-     <br>React.js
-   </td>
- </tr>
-</table>
+<h1 align="center">🚀 SKILLS 🚀</h1>
 
-### Back-End:
-<table>
- <tr>
-   <td align="center" width="96">
-     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="48" height="48" alt="Node.js" />
-     <br>Node.js
-   </td>
-   <td align="center" width="96">
-     <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="48" height="48" alt="Java" />
-     <br>Java
-   </td>
-   <td align="center" width="96">
-     <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="48" height="48" alt="Spring Boot" />
-     <br>Spring Boot
-   </td>
- </tr>
-</table>
-
-### Databases:
-<table>
- <tr>
-   <td align="center" width="96">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="48" height="48" alt="MySQL" />
-     <br>MySQL
-   </td>
-   <td align="center" width="96">
-     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" />
-     <br>MongoDB
-   </td>
- </tr>
-</table>
-
-### Version Control:
-<table>
- <tr>
-   <td align="center" width="96">
-     <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="48" height="48" alt="GitHub" />
-     <br>GitHub
-   </td>
-   <td align="center" width="96">
-     <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="48" height="48" alt="Git" />
-     <br>Git
-   </td>
-   <td align="center" width="96">
-     <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" width="48" height="48" alt="REST API" />
-     <br>REST API
-   </td>
- </tr>
-</table>
-
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Programming Languages</th>
+        <th>Front-End & Back-End</th>
+        <th>Databases</th>
+        <th>Tools/Platforms</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=java,python,c" />
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,nodejs" />
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
-## 📂 Projects  
-- 🖼️ **Image Captioning using Deep Learning (ViT-GPT2, ResNet, LSTM)**  
-- 🏥 **Breast Cancer Prediction using Histopathological Images**  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h1 align="center">🚀 PROJECTS 🚀</h1>
+
+- 🖼️ **Image Captioning using Deep Learning** (ViT-GPT2, ResNet, LSTM)  
+- 🏥 **Breast Cancer Prediction** using Histopathological Images  
 - ⚡ **Energy Consumption Forecasting System**  
 - ✈️ **Airlines Reservation System (Java)**  
-- 🧑‍💻 **AI-based Career Recommendation App – SkillWise (Spring Boot + React + Python AI microservice)**  
+- 🧑‍💻 **AI-based Career Recommendation App – SkillWise** (Spring Boot + React + Python AI microservice)  
 - 📊 **Student Grading, CRM, LMS, Inventory Management, Banking System Projects**  
 
 ---
 
-## 🎓 Internships  
+<h1 align="center">🚀 INTERNSHIPS 🚀</h1>
+
 - 💠 **AICTE | AI Azure – Microsoft** (Jun 2025 – Jul 2025)  
-  Successfully completed a **4-week AI Azure internship** (Edunet Foundation + AICTE).  
 - 🔶 **AICTE | AI ML – Google** (Jul 2024 – Sep 2024)  
-  Worked with **Google AI/ML initiatives** including **TensorFlow, NLP, CV & Predictive Analytics**.  
 - ⚡ **Artificial Intelligence Intern – Infosys Springboard** (Mar 2024 – Jun 2024)  
-  Built an **Energy Consumption Forecasting System** for sustainability.  
 - 🌐 **Web Development Intern – Oasis Infobyte** (Feb 2024 – Mar 2024)  
-  Worked on **calculator, to-do list, tribute page, login authentication projects**.  
 
 ---
 
-## 🏆 Certifications  
+<h1 align="center">🏆 CERTIFICATIONS 🏆</h1>
 
-- 🎨 **UI/UX Placement Training Workshop** – Unstop (Dec 2024)  
-- ☁️ **Get Started with Cloud Storage** – Google Cloud Skills Boost (Oct 2024)  
-- ☁️ **Get Started with Dataplex** – Google Cloud Skills Boost (Oct 2024)  
-- ☁️ **The Basics of Google Cloud Compute** – Google Cloud Skills Boost (Oct 2024)  
-- 🗂️ **How to Create a Jira SCRUM Project** – Coursera (Oct 2024)  
-- 💻 **Core Java Specialization** – LearnQuest (Mar 2023)  
-- 💻 **Java Class Library** – LearnQuest (Mar 2023)  
-- 🐍 **Data Analysis with Python** – IBM (Sep 2023)  
-- 🤖 **Artificial Intelligence Primer** – Infosys Springboard (Feb 2024)  
-- 🔍 **AI For Everyone** – DeepLearning.AI (Feb 2023)  
-- 🛢️ **MySQL** – Udemy (Jul 2024)  
-- 🧩 **Python Data Structures** – University of Michigan (Jun 2022)  
-- 🧑‍💻 **Data Structures** – UC San Diego (Dec 2022)  
-- 🌐 **Technical Support Fundamentals** – Google (Dec 2022)  
-- ⚙️ **Operating System Foundations** – Infosec (Feb 2023)  
-
+- 🎨 UI/UX Placement Training Workshop – Unstop  
+- ☁️ Google Cloud Skills Boost (Cloud Storage, Dataplex, Cloud Compute)  
+- 🗂️ Jira SCRUM Project – Coursera  
+- 💻 Core Java & Java Class Library – LearnQuest  
+- 🐍 Data Analysis with Python – IBM  
+- 🤖 AI Primer – Infosys Springboard  
+- 🔍 AI For Everyone – DeepLearning.AI  
+- 🛢️ MySQL – Udemy  
+- 🧩 Python Data Structures – UMich  
+- 🧑‍💻 Data Structures – UCSD  
+- 🌐 Technical Support Fundamentals – Google  
+- ⚙️ Operating System Foundations – Infosec  
 
 ---
 
-# 🎓 Education:
+<h1 align="center">🎓 EDUCATION 🎓</h1>
+
 - **B.Tech (CSE)** – GITAM University, Hyderabad – *7.01 CGPA*  
-- **Intermediate** – 7.04 GPA  
-- **10th Standard** – 58.6%  
+- **Intermediate** – *7.04 GPA*  
+- **10th Standard** – *58.6%*  
 
 ---
 
-📈 **GitHub Stats**  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h1 align="center">🚀 GITHUB TROPHIES 🚀</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintalaharika5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chintalaharika5&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues">
+</p>
 
+---
+
+<h1 align="center">🚀 ACHIEVEMENTS 🚀</h1>
+
+[![Holopin Badges](https://holopin.me/chintalaharika5)](https://holopin.io/@chintalaharika5)
 
 ---
 
-## 📬 Connect with Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintalaharik5@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harika-chintala-23b37b272)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chintalaharika5)  
+<h1 align="center">📊 STATS 📊</h1>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chintalaharika5&theme=radical&border=7F3FBF&background=0D1117" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chintalaharika5&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Chintalaharika5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Chintalaharika5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</p>
 
 ---
-⭐ *"Striving to innovate, learn, and grow every single day!"*  
+
+<h1 align="center">🐍 CONTRIBUTION SNAKE 🐍</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<h1 align="center">🌐 CONNECT WITH ME 🌐</h1>
+<p align="center">
+<a href="https://linkedin.com/in/harika-chintala-23b37b272" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+<a href="https://github.com/Chintalaharika5" target="blank"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+<a href="mailto:chintalaharik5@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+</p>
+
+---
+
+⭐ *"Striving to innovate, learn, and grow every single day!"*
