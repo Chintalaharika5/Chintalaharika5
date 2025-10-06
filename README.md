@@ -1,159 +1,160 @@
-<!-- Banner -->
-<img src="https://i.pinimg.com/736x/f9/83/06/f98306494f6d636b39af01499ab9034e.jpg" alt="Coding Banner" style="width: 100%; height: auto;">
+<!-- Decorative GitHub README for Harika -->
+<div align="center" style="border: 3px solid #F85D7F; border-radius: 20px; padding: 20px; background: linear-gradient(to right, #fce4ec, #f3e5f5);">
 
-<!-- Typing SVG -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harika</h1>
-<p align="center">
-  <a href="https://github.com/Chintalaharika5">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Final-year+B.Tech+CSE+Student;Aspiring+Full+Stack+Java+Developer;AI+%26+ML+Enthusiast;Tech+Innovator&center=true&width=500&height=50">
-  </a>
+  <!-- Banner -->
+  <p align="center">
+    <img src="https://www.jobspikr.com/wp-content/uploads/2022/03/image-2.png" 
+         alt="Coding Banner" 
+         style="width:90%; border-radius:20px; height:250px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+  </p>
+
+  <!-- Typing SVG -->
+  <h1 align="center" style="color:#7F3FBF;">👩‍💻 Hey there! I'm Harika</h1>
+  <p>
+    <a href="https://github.com/Chintalaharika5">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Full+Stack+Java+Developer;AI+%26+ML+Explorer;Creative+Tech+Innovator&center=true&width=500&height=45">
+    </a>
+  </p>
+
+  <!-- Profile Views -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Chintalaharika5&label=Profile%20views&color=F85D7F&style=flat" alt="Profile views" />
+  </p>
+
+  <hr style="border:1px dashed #F85D7F; margin:20px 0;">
+
+  <!-- About Me -->
+  <h2 style="color:#7F3FBF;">ABOUT ME</h2>
+  <div align="left">
+  <p>
+    👩‍💻 <b>Computer Science Engineer | GITAM University, Hyderabad</b><br>
+    🌐 Passionate about <b>Full Stack Development & AI/ML</b><br>
+    ⚙️ Skilled in <b>Spring Boot, React, SQL, Advanced Java</b><br>
+    🎨 Lover of <b>art, design, and digital creativity</b><br>
+    📍 Based in <b>Hyderabad, India</b><br>
+    📫 Reach me at <b>chintalaharik5@gmail.com</b>
+  </p>
+  </div>
+  <hr style="border:1px dashed #F85D7F; margin:20px 0;">
+
+  <!-- Tech Stack -->
+  <h2 style="color:#7F3FBF;">TECH STACK</h2>
+  <div align="left">
+    <table>
+      <thead>
+        <tr>
+          <th>Languages</th>
+          <th>Frontend & Backend</th>
+          <th>Databases</th>
+          <th>Tools</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=java,python,c" /></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,spring,nodejs" /></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <hr style="border:1px dashed #F85D7F; margin:20px 0;">
+
+  <!-- Tech Skills -->
+  <h2 style="color:#7F3FBF;">TECH SKILLS</h2>
+  <p align="left", style="font-family: 'Courier New', monospace;">
+    Java: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%<br>
+    Python: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%<br>
+    React: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%<br>
+    Spring Boot: 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%<br>
+    SQL: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%<br>
+    Git/GitHub: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
+  </p>
+
+  <hr style="border:1px dashed #F85D7F; margin:20px 0;">
+
+  <!-- Projects -->
+ <h2 style="color:#7F3FBF;">PROJECTS</h2>
+<p align="left", style="line-height: 1.8;">
+  🖼️ <b>Image Captioning using Deep Learning (ViT-GPT2, ResNet, LSTM)</b><br>
+  🏥 <b>Breast Cancer Prediction using Histopathological Images</b><br>
+  ⚡ <b>Energy Consumption Forecasting System</b><br>
+  💼 <b>AI-based Career Recommendation App – SkillWise (Spring Boot + React + Python)</b><br>
+  📊 <b>CRM, LMS, Inventory, and Student Grading Systems</b>
 </p>
 
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chintalaharika5&label=Profile%20views&color=0e75b6&style=flat" alt="Chintalaharika5" /> </p>
+<hr style="border:1px dashed #F85D7F; margin:20px 0;">
 
----
+<!-- Internships -->
+<h2 style="color:#7F3FBF;">INTERNSHIPS</h2>
+<p align="left", style="line-height: 1.8;">
+  💠 <b>AICTE | AI Azure – Microsoft</b> (Jun 2025 – Jul 2025)<br>
+  🔶 <b>AICTE | AI ML – Google</b> (Jul 2024 – Sep 2024)<br>
+  ⚡ <b>Artificial Intelligence Intern – Infosys Springboard</b> (Mar 2024 – Jun 2024)<br>
+  🌐 <b>Web Development Intern – Oasis Infobyte</b> (Feb 2024 – Mar 2024)
+</p>
 
-### ✨ About Me  
-- 🎓 Final-year **B.Tech Computer Science Student @ GITAM University**  
-- 💻 Interested in **Full Stack Development & AI/ML applications**  
-- 🌱 Currently learning **Spring Boot, React, SQL & Advanced Java**  
-- ✨ Passionate about **arts, design, and innovation**  
-- 📍 Based in **Hyderabad, India**  
-- 📫 Reach me at **chintalaharik5@gmail.com**  
+<hr style="border:1px dashed #F85D7F; margin:20px 0;">
 
----
+<!-- Certifications -->
+<h2 style="color:#7F3FBF;">CERTIFICATIONS</h2>
+<p align="left", style="line-height: 1.8;">
+  🎨 UI/UX Placement Training Workshop – Unstop<br>
+  ☁️ Google Cloud Skills Boost<br>
+  💻 Core Java & Java Class Library – LearnQuest<br>
+  🐍 Data Analysis with Python – IBM<br>
+  🤖 AI Primer – Infosys Springboard<br>
+  🔍 AI For Everyone – DeepLearning.AI<br>
+  🧩 Python Data Structures – UMich<br>
+  🧑‍💻 Data Structures – UCSD<br>
+  🌐 Technical Support Fundamentals – Google<br>
+  ⚙️ Operating System Foundations – Infosec
+</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr style="border:1px dashed #F85D7F; margin:20px 0;">
 
-<h1 align="center">🚀 SKILLS 🚀</h1>
+<!-- Education -->
+<h2 style="color:#7F3FBF;">EDUCATION</h2>
+<p align="left", style="line-height: 1.8;">
+  🎓 <b>B.Tech (CSE)</b> – GITAM University, Hyderabad – 7.01 CGPA<br>
+  📘 Intermediate – 7.04 GPA<br>
+  🏫 10th Standard – 58.6%
+</p>
 
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Programming Languages</th>
-        <th>Front-End & Back-End</th>
-        <th>Databases</th>
-        <th>Tools/Platforms</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=java,python,c" />
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,nodejs" />
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-        </td>
-        <td align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<hr style="border:1px dashed #F85D7F; margin:20px 0;">
+
+
+  <!-- GitHub Stats -->
+  <h2 style="color:#7F3FBF;">GITHUB STATS</h2>
+  <p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chintalaharika5&theme=radical&border=7F3FBF&background=0D1117" height="150px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chintalaharika5&theme=radical" height="150px"/>
+  </p>
+  <p>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Chintalaharika5&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150px"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Chintalaharika5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150px"/>
+  </p>
+
+  <hr style="border:1px dashed #F85D7F; margin:20px 0;">
+
+  <!-- Connect -->
+  <h2 style="color:#7F3FBF;">🌐 CONNECT WITH ME</h2>
+  <p align="center" >
+    <a href="https://linkedin.com/in/harika-chintala-23b37b272"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+    <a href="https://github.com/Chintalaharika5"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+    <a href="mailto:chintalaharik5@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  </p>
+
+  <!-- Motto -->
+  <h2 style="color:#7F3FBF;">💡 MOTTO</h2>
+  <p align="center" style="font-size:18px; font-style:italic;">
+    "Code with logic,<br>
+    Learn with curiosity,<br>
+    Build with creativity,<br>
+    Innovate with purpose."
+  </p>
+  <p style="font-size:16px; color:#F85D7F;">✨ Striving for excellence, one project at a time! ✨</p>
+
 </div>
-
----
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h1 align="center">🚀 PROJECTS 🚀</h1>
-
-- 🖼️ **Image Captioning using Deep Learning** (ViT-GPT2, ResNet, LSTM)  
-- 🏥 **Breast Cancer Prediction** using Histopathological Images  
-- ⚡ **Energy Consumption Forecasting System**  
-- ✈️ **Airlines Reservation System (Java)**  
-- 🧑‍💻 **AI-based Career Recommendation App – SkillWise** (Spring Boot + React + Python AI microservice)  
-- 📊 **Student Grading, CRM, LMS, Inventory Management, Banking System Projects**  
-
----
-
-<h1 align="center">🚀 INTERNSHIPS 🚀</h1>
-
-- 💠 **AICTE | AI Azure – Microsoft** (Jun 2025 – Jul 2025)  
-- 🔶 **AICTE | AI ML – Google** (Jul 2024 – Sep 2024)  
-- ⚡ **Artificial Intelligence Intern – Infosys Springboard** (Mar 2024 – Jun 2024)  
-- 🌐 **Web Development Intern – Oasis Infobyte** (Feb 2024 – Mar 2024)  
-
----
-
-<h1 align="center">🏆 CERTIFICATIONS 🏆</h1>
-
-- 🎨 UI/UX Placement Training Workshop – Unstop  
-- ☁️ Google Cloud Skills Boost (Cloud Storage, Dataplex, Cloud Compute)  
-- 🗂️ Jira SCRUM Project – Coursera  
-- 💻 Core Java & Java Class Library – LearnQuest  
-- 🐍 Data Analysis with Python – IBM  
-- 🤖 AI Primer – Infosys Springboard  
-- 🔍 AI For Everyone – DeepLearning.AI  
-- 🛢️ MySQL – Udemy  
-- 🧩 Python Data Structures – UMich  
-- 🧑‍💻 Data Structures – UCSD  
-- 🌐 Technical Support Fundamentals – Google  
-- ⚙️ Operating System Foundations – Infosec  
-
----
-
-<h1 align="center">🎓 EDUCATION 🎓</h1>
-
-- **B.Tech (CSE)** – GITAM University, Hyderabad – *7.01 CGPA*  
-- **Intermediate** – *7.04 GPA*  
-- **10th Standard** – *58.6%*  
-
----
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h1 align="center">🚀 GITHUB TROPHIES 🚀</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chintalaharika5&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues">
-</p>
-
----
-
-<h1 align="center">🚀 ACHIEVEMENTS 🚀</h1>
-
-[![Holopin Badges](https://holopin.me/chintalaharika5)](https://holopin.io/@chintalaharika5)
-
----
-
-<h1 align="center">📊 STATS 📊</h1>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chintalaharika5&theme=radical&border=7F3FBF&background=0D1117" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chintalaharika5&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Chintalaharika5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Chintalaharika5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</p>
-
----
-
-<h1 align="center">🏙️ GITHUB SKYLINE 🏙️</h1>
-
-<p align="center">
-  <a href="https://skyline.github.com/Chintalaharika5/2024" target="_blank">
-    <img src="https://raw.githubusercontent.com/Chintalaharika5/Chintalaharika5/main/skyline.png" alt="GitHub Skyline 3D" />
-  </a>
-</p>
-
----
-
-<h1 align="center">🌐 CONNECT WITH ME 🌐</h1>
-<p align="center">
-<a href="https://linkedin.com/in/harika-chintala-23b37b272" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-<a href="https://github.com/Chintalaharika5" target="blank"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-<a href="mailto:chintalaharik5@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-</p>
-
----
-
-⭐ *"Striving to innovate, learn, and grow every single day!"*
