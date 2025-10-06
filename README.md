@@ -128,7 +128,7 @@
 
   <!-- GitHub Stats -->
   <h2 style="color:#7F3FBF;">GITHUB STATS</h2>
-  <p align="left">
+  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chintalaharika5&theme=radical&border=7F3FBF&background=0D1117" height="150px"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chintalaharika5&theme=radical" height="150px"/>
   </p>
